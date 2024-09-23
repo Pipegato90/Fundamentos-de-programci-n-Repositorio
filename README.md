@@ -1,2 +1,2 @@
-# Fundamentos-de-programci-n-Repositorio
-La finalidad de este repositorios es continuar con el aprendizaje de las heerramientas en Phyton
+# Fundamentos-de-Programaci-n---Repositorio
+Este repositorio esta creado con la finalidad de continuar con el aprendizaje en la materia de Fundamentos de Programación
